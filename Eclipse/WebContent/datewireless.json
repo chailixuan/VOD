@@ -1,0 +1,70 @@
+{
+ "videos":[  
+    {  
+        "id":"1",  
+        "title":"curry",  
+        "image":"http://172.24.43.161:8080/HttpClientDemo/pic/test.jpg",  
+        "duration":"910",  
+        "category":"原创",  
+        "state":"normal",  
+        "published":"2011-07-15  09:00:42",  
+        "description":"库里",  
+        "player":"rtsp://172.26.93.200:80/basketball/curry.mp4"  
+    },  
+    {  
+        "id":"2",  
+        "title":"westbrook",  
+        "image":"http://172.24.43.161:8080/HttpClientDemo/pic/test.jpg",  
+        "duration":"910",  
+        "category":"原创",  
+        "state":"normal",  
+        "published":"2013-04-15  09:00:42",  
+        "description":"威少",  
+        "player":"rtsp://172.26.93.200:80/basketball/westbrook.mp4"  
+    },
+     {  
+        "id":"3",  
+        "title":"deron",  
+        "image":"http://172.24.43.161:8080/HttpClientDemo/pic/test.jpg",  
+        "duration":"910",  
+        "category":"原创",  
+        "state":"normal",  
+        "published":"2013-04-15  09:00:42",  
+        "description":"音乐",  
+        "player":"rtsp://172.26.93.200:80/basketball/deron.mp4"  
+    }  ,
+    {  
+        "id":"4",  
+        "title":"Hot Chelle Rae - Tonight Tonight",  
+        "image":"http://172.24.43.161:8080/HttpClientDemo/pic/test.jpg",  
+        "duration":"910",  
+        "category":"原创",  
+        "state":"normal",  
+        "published":"2013-04-15  09:00:42",  
+        "description":"音乐",  
+        "player":"rtsp://172.26.93.200:80/music/HotChelleRae-TonightTonight.mp4"  
+    }  ,
+        {  
+        "id":"5",  
+        "title":"Jeremy Zucker - end",  
+        "image":"http://172.24.43.161:8080/HttpClientDemo/pic/test.jpg",  
+        "duration":"910",  
+        "category":"JeremyZucker-",  
+        "state":"normal",  
+        "published":"2013-04-15  09:00:42",  
+        "description":"音乐",  
+        "player":"rtsp://172.26.93.200:80/music/JeremyZucker-end.mp4"  
+    }  ,
+        {  
+        "id":"6",  
+        "title":"Lady Gaga - Always Remember Us This Way",  
+        "image":"http://172.24.43.161:8080/HttpClientDemo/pic/test.jpg",  
+        "duration":"910",  
+        "category":"原创",  
+        "state":"normal",  
+        "published":"2013-04-15  09:00:42",  
+        "description":"音乐",  
+        "player":"rtsp://172.26.93.200:80/music/LadyGaga-AlwaysRememberUsThisWay.mp4"  
+    }  
+]
+}

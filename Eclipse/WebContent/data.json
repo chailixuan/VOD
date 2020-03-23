@@ -1,0 +1,37 @@
+{
+ "videos":[  
+    {  
+        "id":"1",  
+        "title":"curry",  
+        "image":"http://172.24.43.161:8080/HttpClientDemo/pic/test.jpg",  
+        "duration":"910",  
+        "category":"原创",  
+        "state":"normal",  
+        "published":"2011-07-15  09:00:42",  
+        "description":"库里",  
+        "player":"rtsp://172.24.43.161:80/curry.mp4"  
+    },  
+    {  
+        "id":"2",  
+        "title":"westbook",  
+        "image":"http://172.24.43.161:8080/HttpClientDemo/pic/test.jpg",  
+        "duration":"910",  
+        "category":"原创",  
+        "state":"normal",  
+        "published":"2013-04-15  09:00:42",  
+        "description":"威少",  
+        "player":"rtsp://172.24.43.161:80/westbrook.mp4"  
+    },
+        {  
+        "id":"3",  
+        "title":"deron",  
+        "image":"http://172.24.43.161:8080/HttpClientDemo/pic/test.jpg",  
+        "duration":"910",  
+        "category":"原创",  
+        "state":"normal",  
+        "published":"2013-04-15  09:00:42",  
+        "description":"威少",  
+        "player":"rtsp://172.24.43.161:80/deron.mp4"  
+    }  
+]
+}
